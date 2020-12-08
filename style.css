@@ -1,3 +1,30 @@
+body {
+  background-color: rgb(225, 225, 247);
+  display: flex;
+  flex-direction: column;
+  ;
+}
+
+#imgl {
+  height: 100px;
+  display: inline;
+  margin-right: 130px;
+  padding-top: 20px;
+
+}
+
+#imgr {
+  height: 100px;
+  display: inline;
+  margin-left: 130px;
+}
+
+h1 {
+ display: inline;
+ text-align: center;
+ 
+}
+
 .success, .error {
   color: white;
   padding: 5px;
@@ -10,4 +37,9 @@
 
 .error {
   background: red;
+}
+
+#submit{
+  background-color: rgb(109, 51, 175);
+  color: aliceblue;
 }
