@@ -9,14 +9,15 @@ body {
   height: 100px;
   display: inline;
   margin-right: 130px;
-  padding-top: 20px;
-
+  border-radius: 15px;
+  margin-top: 20px;
 }
 
 #imgr {
   height: 100px;
   display: inline;
   margin-left: 130px;
+  border-radius: 15px;
 }
 
 h1 {
